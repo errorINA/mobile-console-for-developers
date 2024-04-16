@@ -7,6 +7,7 @@ Put this at the bottom of your code so you can get a console on you mobile phone
 Option One | For always having a button.
 
 ```
+<script src="https://raw.githubusercontent.com/errorINA/mobile-console-for-developers/main/one.js"></script>
 
 ```
 
